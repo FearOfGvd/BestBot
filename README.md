@@ -1,6 +1,6 @@
 # BestBot
 
-This was I bot I created in December of 2020 to buy one of the Xbox Series Xs from bestbuy.com when they were very limited. This only works in FireFox and uses the webdriver directory on your computer. But this bot isn't only limited to the Xbox, it allows for any URL to be put into a config.ini file. I used the Twilio API (https://www.twilio.com/) to send text message updates to my phone so I would know when the item I was looking for was purchased for was found to be put of stock. I don't expect this code to be very efficient considering that it was my first semi-large Python project.
+This was I bot I created in December of 2020 to buy one of the Xbox Series Xs from bestbuy.com when they were very limited. This only works in FireFox and uses the webdriver directory on your computer. But this bot isn't only limited to the Xbox, it allows for any URL to be put into a config.ini file. I used the Twilio API (https://www.twilio.com/) to send text message updates to my phone so I would know when the item I was looking for was purchased for was found to be out of stock. I don't expect this code to be very efficient considering that it was my first semi-large Python project.
 
 
 ## Installation
